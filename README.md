@@ -2,7 +2,7 @@
 
 **Clash for Android（CFA）** 是一款专为 Android 设备打造的 Clash 图形化客户端，基于 Clash 核心构建，提供高效的代理管理与规则分流能力。凭借简洁的界面设计和丰富的功能配置，Clash for Android 已成为众多 Android 用户常用的代理工具之一。
 
-**[Clash for Windows下载](https://github.com/clash-client/clash-for-windows/releases)** 
+**[Clash for Android下载](https://github.com/clash-client/clash-for-android/releases)** 
  
 ---
 
